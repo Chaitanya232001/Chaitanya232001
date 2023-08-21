@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 | Sinhgad college of Engineering             | SPPU       |   2023      |  8.50 CGPA      |
 | Goverment Polytechnic Hingli               | MSBTE      |   2020      |   85.90%        |
 | Balasaheb Bharde High School               |  SSC       |   2017      |   86.20%        |
-|--------------------------------------------|------------|-------------|-----------------|
-
 
 💼 *Skills*
 - Web Development       	: HTML, CSS, JavaScript
