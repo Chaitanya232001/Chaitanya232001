@@ -14,25 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓##About Me 
+🎓## About Me 
 ---
  My expertise lies in front-end technologies, including HTML5, CSS3, JavaScript. I also have hands-on experience with responsive web design , CSS  frameworks (Bootstrap), and version control systems (Git). I am constantly exploring the latest trends and best practices in web development to stay up-to-date with this rapidly evolving field. 
  ***
-🎓##Education
+🎓## Education
 | College Name                               | University | Passing Year| CGPA/Percentage |
 |--------------------------------------------|------------|-------------|-----------------|
 | Sinhgad college of Engineering             | SPPU       |   2023      |  8.50 CGPA      |
 | Goverment Polytechnic Hingli               | MSBTE      |   2020      |   85.90%        |
 | Balasaheb Bharde High School               |  SSC       |   2017      |   86.20%        |
 ___
-💼##Skills
+💼## Skills
 + Web Development       	 : HTML, CSS, JavaScript
 + Framework               :  Bootstrap
 + Database	               :  SQL
 + Developer Tools	        : Visual Studio Code
 + version control system  : Git , GitHub
   ___
- ##Certification
+ ## Certification
 - Web Development (Enrolled on Udemy)
 - I completed Linux Training course material provided by the Spoken Tutorial Project, IIT Bombay.
 - I completed Learn the Command Line Course from codecademy
