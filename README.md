@@ -44,4 +44,4 @@ Percentage - 86.20
 -I completed Learn the Command Line Course from codecademy
 
 🔗 *Connect with me*
--[![LinkedIn](www.linkedin.com/in/chaitanya-shah-09bb66226)
+-[![LinkedIn](http://www.linkedin.com/in/chaitanya-shah-09bb66226)
