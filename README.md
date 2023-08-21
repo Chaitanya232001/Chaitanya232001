@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ---
  My expertise lies in front-end technologies, including HTML5, CSS3, JavaScript. I also have hands-on experience with responsive web design , CSS  frameworks (Bootstrap), and version control systems (Git). I am constantly exploring the latest trends and best practices in web development to stay up-to-date with this rapidly evolving field. 
  ***
-|--------------------------------------------|------------|-------------|-----------------|
 | College Name                               | university | Passing Year| CGPA/Percentage |
 |--------------------------------------------|------------|-------------|-----------------|
 | Sinhgad college of Engineering             | SPPU       |   2023      |  8.50 CGPA      |
