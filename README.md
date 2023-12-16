@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🎓  
 ## About Me 
 ---
- My expertise lies in front-end technologies, including HTML5, CSS3, JavaScript. I also have hands-on experience with responsive web design , CSS  frameworks (Bootstrap), and version control systems (Git). I am constantly exploring the latest trends and best practices in web development to stay up-to-date with this rapidly evolving field. 
+As a dedicated and self-motivated graduate with an Honors Bachelor's degree in Electronics and Telecommunication Engineering, I aspire to thrive in a dynamic work environment. I aim to apply my technical skills to develop and implement innovative ideas, thereby making a valuable contribution to the organization's growth 
  ***
 🎓 
 ## Education
@@ -30,15 +30,17 @@ ___
 💼
 ## Skills
 + Web Development       	 : HTML, CSS, JavaScript
-+ Framework               :  Bootstrap
-+ Database	               :  SQL
-+ Developer Tools	        : Visual Studio Code
++ Programming language    : Core Java
++ Framework               : Bootstrap, SpringBoot(Basic), Angular(Basic)
++ Database	               : SQL
++ Developer Tools	        : Visual Studio Code , MySQL
 + version control system  : Git , GitHub
   ___
  ## Certification
 - Web Development (Enrolled on Udemy)
-- I completed Linux Training course material provided by the Spoken Tutorial Project, IIT Bombay.
-- I completed Learn the Command Line Course from codecademy
+- Learn the Command Line, Git & GitHub, Intro to Java, Learn Java, Learn Intermediate Java: Input and Output, Learn Intermediate Java: Generics and Collections, Learn 
+  Intermediate Java: JUnit Testing, Learn HTML, Learn CSS, Learn Bootstrap, Build a Website with HTML, CSS, and GitHub Pages, Learn JavaScript, Learn TypeScript: 
+  Fundamentals,Learn TypeScript: Functions, Learn SQL, Learn Spring, Learn AngularJS 1.X. from Codecademy
 ___
 🔗 *Connect with me*
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/chaitanya-shah-09bb66226)
