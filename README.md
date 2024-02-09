@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🎓  
 ## About Me 
 ---
-As a dedicated and self-motivated graduate with an Honors Bachelor's degree in Electronics and Telecommunication Engineering, I aspire to thrive in a dynamic work environment. I aim to apply my technical skills to develop and implement innovative ideas, thereby making a valuable contribution to the organization's growth 
+Highly motivated Electronics & Telecommunication Engineer (Cybersecurity) with a strong passion for technology. Skilled in problem-solving and eager to learn and contribute in various roles, including database administration, frontend development, backend development or full-stack development.  
  ***
 🎓 
 ## Education
@@ -29,18 +29,16 @@ As a dedicated and self-motivated graduate with an Honors Bachelor's degree in E
 ___
 💼
 ## Skills
-+ Web Development       	 : HTML, CSS, JavaScript
-+ Programming language    : Core Java
-+ Framework               : Bootstrap, SpringBoot(Basic), Angular(Basic)
-+ Database	               : SQL
-+ Developer Tools	        : Visual Studio Code , MySQL
-+ version control system  : Git , GitHub
-  ___
+
++  Web Development & Frameworks:Proficient in HTML5, CSS3, JavaScript (ES6+), and TypeScript. o Hands-on experience building responsive web applications using Angular including components, templates, directives, data binding and pipes. o Familiar with Spring Boot fundamentals, including RESTful API development with JSON, dependency injection with Auto wired/Inject, and MVC architecture.
++  Programming Languages: Core Java concepts (data types, OOPs concepts, exception handling, collections)
++ Databases:
+  1.SQL: DDL, DML, DQL, TCL, DCL
+  2.Oracle: Architecture 19c, Start-up and shutdown sequence, File management
+  
  ## Certification
 - Web Development (Enrolled on Udemy)
-- Learn the Command Line, Git & GitHub, Intro to Java, Learn Java, Learn Intermediate Java: Input and Output, Learn Intermediate Java: Generics and Collections, Learn 
-  Intermediate Java: JUnit Testing, Learn HTML, Learn CSS, Learn Bootstrap, Build a Website with HTML, CSS, and GitHub Pages, Learn JavaScript, Learn TypeScript: 
-  Fundamentals,Learn TypeScript: Functions, Learn SQL, Learn Spring, Learn AngularJS 1.X. from Codecademy
-___
+- Mastered HTML, CSS, SQL, Core Java, Spring Boot (Basic), Angular (Basic), JavaScript, and TypeScript
+
 🔗 *Connect with me*
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/chaitanya-shah-09bb66226)
